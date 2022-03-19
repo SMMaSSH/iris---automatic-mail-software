@@ -1,2 +1,2 @@
 # xIris-auto-mail
-The simpel automated  multi adress mail software.
+simpel automated multi adress mail software with multithread support.
